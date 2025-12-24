@@ -1,9 +1,10 @@
 # Dependency directories
 node_modules/
+.env
 jspm_packages/
 
 # Environment variables (Crucial for security!)
-.env
+
 .env.local
 .env.development.local
 .env.test.local
